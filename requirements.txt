@@ -1,0 +1,3 @@
+# Python >=3.10
+# Official SDK for Open Food Facts / Open Beauty Facts (Flavor.obf)
+openfoodfacts>=5.0.1,<6

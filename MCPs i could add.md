@@ -1,0 +1,1 @@
+- [ ]  YouTube / video transcript MCP. Automatically getting information from youtube. 
