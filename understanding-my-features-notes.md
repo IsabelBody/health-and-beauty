@@ -1,6 +1,6 @@
 Beauty categories- understanding my features 
 
-Eye shape - almond eyes. Deepset eyes. a deep orbital structure / deep eye socket while also having prominent or projected eyeballs and under-eyes. The projected undereyes cause visible under-eye hollows/shadows. no epicanthic fold presence. Large-looking eyes. Slightly wide set eyes. Horizontally elongated. Deep lidded eyes. Not upturned or downturned. Eyelid crease is visually apparent, appears deep. Double eyelids. Eye Length Is longer than the width of the eye, flatter curvature, smaller opening at inner corner.
+Eye shape - almond eyes. Hooded eyes. Deepset eyes. a deep orbital structure / deep eye socket while also having prominent or projected eyeballs and under-eyes. The projected undereyes cause visible under-eye hollows/shadows. no epicanthic fold presence. Large-looking eyes. Slightly wide set eyes. Horizontally elongated. Deep lidded eyes. Not upturned or downturned. Eyelid crease is visually apparent, appears deep. Double eyelids. Eye Length Is longer than the width of the eye, flatter curvature, smaller opening at inner corner.
 visible hollowing/shadowing beneath eyes, cool-toned undereye coloration. Undereyes are shadowed from both eye structure and pigment. I have a crease right under my eyes 
 There is a shadow on the side of my nose in the crease by my eyes. 
 Seasonal color palette - Deep winter color palette 
@@ -144,8 +144,9 @@ Eye Shape
 
 Almond, round, hooded, monolid, downturned, upturned, deep-set, protruding?
 
+**Confirmed (Jun 2026):** almond, hooded, deep-set — not upturned or downturned.
 
-You already identified deep-set + almond/upturned, which is very useful.
+You already identified deep-set + almond; hooded is now confirmed too.
 
 Eye Spacing
 

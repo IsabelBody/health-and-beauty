@@ -11,4 +11,4 @@ Eventually I should get every single application part of my routine in depth des
 
 - [ ] Use - https://incidecoder.com/ for all my beauty ingredients. It is the greatest site ever. Share with Alice, too. 
 
-- [ ] Make an Agents.md file. That completely understands my goal of using this. 
+- [x] Make an Agents.md file. That completely understands my goal of using this. → see `AGENTS.md` 

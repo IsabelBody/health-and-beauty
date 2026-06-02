@@ -562,3 +562,11 @@ Hair oil (to avoid breakage on my ends)
 Bring in my claw clips with me. So that i can straighten my hair. 
 
 
+
+
+
+
+Makeup Journal - 26/05
+First day wearing a full face of makeup at work. Generally recieved positively - people saying that I look good. 
+Forehead began to get oily around 1pm onwards. 
+The makeup makes me look colorless and dull. This may be a combination of not enough blush/contour and slight caking of the foundation may not be that visible, but is causing dulling of the face. 

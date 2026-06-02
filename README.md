@@ -1,8 +1,25 @@
 # beauty
-Tracking all my beauty classifications, product, ingredients, application, routines, to dos in an agent-accessible format.
 
-We will also keep a journal after every makeup application, to encourage continuous progress. 
-I will continue to watch a variety of videos in any area with un-answered questions. 
+Personal beauty second brain: face blueprint, products, routines, skin health, hair, and session journals — in Markdown for you and for agents.
+
+## Start here
+
+- **[Knowledge base setup](docs/knowledge-base-setup.md)** — folder layout, workflows, migration from Google Docs
+- **[AGENTS.md](AGENTS.md)** — how Cursor (and other agents) should read, write, and process notes
+- **`inbox/`** — paste new dumps; then ask: *"Process my inbox"*
+
+## Structure (short)
+
+| Folder | Contents |
+|--------|----------|
+| `wiki/me/` | Face blueprint, feature priority |
+| `areas/` | Ongoing routines (makeup, skincare, hair, style) |
+| `resources/` | Products, shops (migrate collection here) |
+| `projects/` | GP visit, shade hunts, etc. |
+| `journal/` | Dated application logs |
+| `templates/` | New note starters |
+
+We keep a journal after significant makeup sessions. Unanswered questions live in `wiki/questions.md`.
 
 ## Research resources
 
