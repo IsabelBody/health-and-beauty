@@ -2,6 +2,7 @@
 type: reference
 status: active
 updated: 2026-06-02
+color_research: 2026-06-02-browser
 topic: kibbe-dramatic-classic
 canonical: true
 sources:
@@ -153,6 +154,10 @@ Theme: **crisp, tailored, geometric, sharp edges.**
 
 - Elegant tailored blouses; crisp cotton, charmeuse, challis; stock-tie under jacket only.
 - Casual: still clean sharp lines, moderate weight, sharp necklines/seams.
+- **Necklines (book + stylists):** notched / pointed collar, mandarin, geometric V, square, clean slash, asymmetric angular, turtleneck, narrow cowl (fabric-dependent); halter and wide straps for shoulder emphasis.
+- **Fit:** fitted to semi-fitted — fabric follows body line with precision; hanger test (holds shape = yes).
+- **DC lean Classic:** symmetry and ensemble first; yang via seaming, collar, boning — not volume (avoid oversized slouch, puffed sleeves).
+- **With low-rise minis:** structured tanks, corsets, drop-waist dresses, fitted turtlenecks, blouses layered over tank; full tier list and Y2K-vs-DC filter → [[../learnings/tops-low-mini-dc]] and [[../../areas/style/daily-uniform-miniskirt-dc]].
 
 ### Sweaters
 
@@ -171,11 +176,98 @@ Theme: **crisp, tailored, geometric, sharp edges.**
 
 ## Color and prints
 
-- Bold, sophisticated; **neutrals and deep colors**; high contrast in outfit (blend intensities for vertical).
-- Pastels OK with **substantial** fabric.
-- Tonal head-to-toe supports vertical; contrast trim in **two-color** stories, repeated.
-- Prints: geometric, slightly oversized, bold contrast; stripes, zigzags, slashes, sleek asymmetry.
-- **Avoid:** multicolor splash, mix-and-match chaos, all-neutral monochrome with no accent (severe/matronly), flowery/soft/ornate/irregular/cute/small symmetrical prints.
+**Priority:** Kibbe DC = *how* you use color (flow, contrast placement, repetition). **Season** = *which* hues flatter your skin — for you, **deep winter** in [[face-blueprint]] wins over generic DC color lists ([Gabrielle Arruda](https://gabriellearruda.com/kibbe-dramatic-classic-style-guide/): “stick to seasonal palette first”; [kibbebody.com](https://www.kibbebody.com/types/dramatic-classic): makeup/hair color from season, not ID).
+
+Kibbe book: **any coloring** possible for DC (warm/cool, high-contrast or blended). DC coloring in *Metamorphosis* is about **wardrobe behavior**, not hair/eye palette.
+
+### Core principles (book + stylists)
+
+| Principle | Meaning |
+|-----------|---------|
+| **Bold and sophisticated** | Neutrals + **deep** colors as the base; simple elegance, not cute or splashy |
+| **Blend intensities** | Keep related tones in the same outfit so the line stays smooth (supports vertical) |
+| **Tonal head-to-toe** | One color story top → bottom (or same family) — eye travels down |
+| **High contrast — yes, but how** | Sophisticated contrast via **repeated two-color story** or **trim/detail**, not random blocks |
+| **Accent in 2+ places** | Pick accent once; repeat (shoes + bag, buttons + belt, trim + shoes) — **never one lone pop** that chops the silhouette |
+| **Detail contrast** | Sharp contrast on **lapels, buttons, piping, contrast stitch, spectator/two-tone shoes** — not gamine-style outfit color-blocking ([Arruda](https://gabriellearruda.com/kibbe-dramatic-classic-style-guide/): contrast within piece/outfit, not gamine color-block) |
+| **Pastels** | OK only with **substantial** fabric and often **head-to-toe** pastel sweep (book) — weak default for deep winter |
+| **Evening** | Metallics, lamé, charmeuse shine as **accent** (book fabrics) |
+
+### The “two contrasts” (do not confuse)
+
+| Type | Example | DC verdict |
+|------|---------|------------|
+| **Outfit / palette contrast** | Black + ivory, navy + white, charcoal + cool red | **Yes** — bold, deep, sophisticated |
+| **Waist color-blocking** | Different color top vs skirt at natural waist | **Risky** — horizontal chop; worse with bare midriff (see [[../../areas/style/daily-uniform-miniskirt-dc]]) |
+| **Detail contrast** | White contrast collar, red buttons, oxblood shoes + belt | **Yes** — yang sharpness without splitting torso/legs |
+| **Multicolor splash** | Rainbow, unrelated blocks, mix-and-match chaos | **No** (book) |
+| **All-neutral, zero accent** | Head-to-toe grey/black with nothing vivid or sharp | **No** — reads severe/matronly (book + r/Kibbe) |
+
+**Vertical line vs contrast:** You want **blend intensities** and tonal flow for length. That does **not** mean “no contrast anywhere” — it means don’t **break** the column at the waist without repeating the accent elsewhere. [kibbebodytypes.net](https://kibbebodytypes.net/blog/how-to-dress-dramatic-classic-kibbe-body-type/): rich saturated **solids** in clean blocks; avoid neon and busy mixed patterns.
+
+### Deep winter + DC (your palette)
+
+Use [[face-blueprint]] as the color authority; DC rules say **where** to put those colors.
+
+**Wardrobe anchors (cool, clear, deep):**
+
+- **Neutrals:** true black, charcoal, cool navy, cool grey, optic / blue-white  
+- **Accents:** cool red, burgundy / oxblood, berry, cool pink, ruby, icy cool highlights  
+- **Metals:** silver, gunmetal, white gold (sharp, not antiqued brass)
+
+**Use with care / avoid for you:**
+
+- Orange, coral, peach, camel, warm beige, olive-gold, dusty warm pastels (fight deep winter + can read “soft” on DC)  
+- Head-to-toe **warm** neutral (taupe, cream, camel) — low contrast on fair cool skin and flattens DC sharpness
+
+**Makeup color (DC book + your blueprint):**
+
+- Book: **matte**, smoky eyes, **vivid mouth**, contour for angles — not pale lip alone, not watercolor-soft, not all-neutral face  
+- Your blueprint: cool berry / rose / cool red blush; elongated outer cheek — aligns with DC “vivid mouth + structure”
+
+**Hair (book — adapt to your natural color):**
+
+- Rich, **distinct** base; avoid processes that “soften” or over-lighten (matronly on DC)  
+- High-contrast hair/coloring sections in book are **examples by contrast level**, not seasonal — match your actual depth and undertone
+
+### Three DC color formulas (daily use)
+
+1. **Tonal column** — black tank + black mini + black boot (or charcoal → black → black). Best with **bare midriff** (skin is the only break).  
+2. **Repeated two-color** — e.g. black column + **oxblood** shoe + **oxblood** bag; or navy dress + navy shoe + **white** collar echo in earrings. Accent appears **twice minimum**.  
+3. **Detail contrast** — all-black outfit + **contrast stitch** mini + **spectator** or two-tone shoe; or charcoal suit + **ivory** shell + ivory trim repeated in scarf.
+
+**Pop-color example (Arruda):** matching **shoes + handbag** in accent color with tailored dress — “classic, put-together”; dress stays sharp/heavier weight.
+
+### Prints
+
+- **Yes:** geometric, slightly oversized, **bold color contrast** within print; stripes, zigzags, slashes, sleek asymmetry; small **geometric** print on structured garment (r/Kibbe: DC mini polka dot OK if neckline/shape DC)  
+- **No:** floral, soft flowing, ornate, irregular, cute, small symmetrical ditsy ([kibbebodytypes.net](https://kibbebodytypes.net/blog/how-to-dress-dramatic-classic-kibbe-body-type/) FAQ: small ditsy too fussy for polished DC)
+
+**Print placement:** prefer print in **one garment** (skirt or dress) with solid top/jacket; avoid print top + print bottom.
+
+### Hosiery and shoes (color)
+
+Book / Doctor T: blend **hem → hosiery → shoe** one tone for vertical **unless** doing deliberate head-to-toe contrast — then contrast color must appear in **several** other places. Two-tone / spectator shoes = classic DC detail contrast.
+
+### What to avoid (color)
+
+- Multicolor splash; mix-and-match unrelated palettes  
+- All-neutral monochrome **with no** accent or sharp detail  
+- Single accent only at waist or one accessory  
+- Neon brights, muddy dusty-only dressing (modern guides)  
+- Soft watercolor prints, romantic florals  
+
+### Community notes (r/Kibbe, 2024–2025)
+
+- DC in **only neutrals** without texture, trim, or accent can look **boring** — add vivid lip, structured shoe color, contrast lapel, or repeated accent (not more random pieces).  
+- **Deep winter + DC:** saturated deep colors and black are valid; “too much black” is social commentary, not a Kibbe violation — break with **texture, shine, or accent repeat** if you want variety.  
+- **Season + Kibbe:** many DIYers use season for palette, Kibbe for silhouette and contrast **placement** — recommended combo.  
+- “Color blocking” in celebrity inspo (Audrey Hepburn, etc.) is debated by ID — not a license for waist blocks on DC without repetition/ensemble plan.
+
+### Application
+
+- Mini + tank uniform: [[../../areas/style/daily-uniform-miniskirt-dc#Color and contrast (separates + midriff)]]  
+- Makeup placement: [[face-blueprint]]
 
 ## Accessories
 
@@ -224,7 +316,7 @@ From *Metamorphosis* and community lists (verify via Strictly Kibbe / David Kibb
 ## How this connects to your vault
 
 - [[face-blueprint]] — inverted triangle face, deep winter, makeup placement; Kibbe row points here note for **body/fashion**.
-- [[../../areas/style/daily-uniform-miniskirt-dc]] — active daily uniform: miniskirt + tank/corset, low waist, DC try-on rules and capsule.
+- [[../../areas/style/daily-uniform-miniskirt-dc]] — active daily uniform: miniskirt + tank/corset, low waist, DC try-on rules and capsule; expanded tops → [[../learnings/tops-low-mini-dc]].
 - Makeup journals — test “tailored chic” vs soft/romantic formulas; document in `journal/`.
 - Shopping / projects — use **avoid** list as filters for blush hunt, returns, etc., not hard rules.
 
@@ -248,8 +340,15 @@ From *Metamorphosis* and community lists (verify via Strictly Kibbe / David Kibb
 | David Kibbe official | https://www.kibbe.com/ | System intent, misinformation clarifications |
 | r/Kibbe wiki | https://www.reddit.com/r/Kibbe/wiki/index/ | Community guides, revision key, DIY threads |
 | Strictly Kibbe (Facebook) | — | Kibbe-active group; exercises for DIYers |
+| kibbebodytypes.net — DC polished edge | https://kibbebodytypes.net/blog/how-to-dress-dramatic-classic-kibbe-body-type/ | Golden rules, fabrics, avoid high-low / stretch bodycon |
+| Petite Dressing — DC (book excerpts) | https://blog.petitedressing.com/dc/ | Full *Metamorphosis* garment text |
+| Doctor T Designs — Sew Your Kibbe DC | https://doctortdesigns.com/2018/11/26/sew-your-kibbe-dramatic-classic/ | Pattern-level line notes |
+| kibbebody.com — DC type + blog | https://www.kibbebody.com/types/dramatic-classic | 2025 sketch method, brands, weight pattern |
 
 ## Changelog
 
+- 2026-06-02 — Tops and blouses: necklines, lean-Classic note, cross-link [[../learnings/tops-low-mini-dc]].
+- 2026-06-02 — Color and prints: full browser research pass (book, Arruda, kibbebody, kibbebodytypes, r/Kibbe); deep winter integration; two-contrast table.
+- 2026-06-02 — Sources: kibbebodytypes.net, Petite Dressing, Doctor T, kibbebody.com (browser research pass).
 - 2026-06-02 — Skirts: cross-link miniskirt/low-waist uniform note; drop waist + short hem caveats.
 - 2026-05-31 — Initial compile from browser research (Arruda, Concept Wardrobe, kibbebody.com, Petite Dressing, Olga Brylińska).

@@ -1,7 +1,7 @@
 ---
 type: questions
 status: active
-updated: 2026-06-02
+updated: 2026-06-03
 ---
 
 # Open questions
@@ -28,7 +28,13 @@ updated: 2026-06-02
 
 ## Hair
 
+See also [[hair/product-matching]] (profile TBD) and [[../../areas/hair/experiments]].
+
+- [ ] **Scalp type** + **strand thickness** — confirm for Abbey Yung product matching
+- [ ] **Frizz / messy texture** after hydration improves — what closes the gap? (smoothing serum, anti-frizz, blow-dry technique, cut, silk vs bonnet, etc.)
 - [ ] Hairdryer and straightener models + techniques
+- [ ] Name and log gloss + hydrating spray used in overnight test (2026-06-01)
+- [ ] Which **deep-clean shampoo** to trial in experiment phase B (if any)
 
 ## Answered / closed
 

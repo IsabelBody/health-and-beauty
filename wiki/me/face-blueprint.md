@@ -14,8 +14,8 @@ Canonical reference for placement, color, and proportion. **Migrate full content
 
 | Attribute | Value |
 |-----------|--------|
-| Season | Deep winter |
-| Kibbe | Dramatic classic — see [[kibbe-dramatic-classic]] |
+| Season | Deep winter — wardrobe anchors in [[kibbe-dramatic-classic#Color and prints]] |
+| Kibbe | Dramatic classic — lines [[kibbe-dramatic-classic]]; color *placement* same note |
 | Face shape | Inverted triangle (forehead widest) |
 | Eyes | Almond, hooded, deep set, wide-set; dominant feature with brows |
 | Skin | Fair, dry, sensitive, redness-prone; cool undertone |
@@ -37,8 +37,18 @@ Canonical reference for placement, color, and proportion. **Migrate full content
 - Highlight: outer cheekbone, inner corner, soft browbone, cupid's bow — avoid center forehead, under-eye, nose tip
 - Concealer: inner under-eye hollow, tear trough, side-of-nose shadow — thin layers, tap not swipe
 
+## Hooded + deep set eyes
+
+Full guide: [[hooded-eyes]]. Summary for routines:
+
+- Apply shadow and liner with **eyes open and relaxed**; build depth **below the brow bone**, not in the hidden natural crease.
+- **Outer corner / outer socket** depth; **lighter mobile lid** (soft satin OK); shimmer center lid or inner corner only.
+- **Thin** upper liner; **outer lash** curl + mascara; tightline optional for definition without losing lid space.
+- Primer on lids; waterproof/thin formulas to limit transfer onto the hood.
+
 ## Related
 
+- Eye shape (hooded + deep set): [[hooded-eyes]]
 - Body & fashion (Kibbe DC): [[kibbe-dramatic-classic]]
 - Active wardrobe uniform: [[../../areas/style/daily-uniform-miniskirt-dc]]
 - Full notes: [[../../understanding-my-features-notes.md]]

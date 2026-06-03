@@ -2,7 +2,7 @@
 type: routine
 area: makeup
 status: active
-updated: 2026-05-26
+updated: 2026-06-02
 ---
 
 # Daily makeup routine
@@ -48,9 +48,10 @@ Target: thin layers; placement per [[../../wiki/me/face-blueprint]]. Products: [
 | Step | Product | Notes |
 |------|---------|--------|
 | Powder | Rare Beauty Linen | T-zone if needed; press don't rub |
-| Eyes / brows | Brow wax, liner, mascara | Outer lash emphasis |
+| Eyes / brows | Primer (lid), brow wax, cool socket shadow, thin liner, mascara | Per [[../../wiki/me/hooded-eyes]]: eyes **open** when placing shadow/liner; depth below brow bone, not hidden crease; curl lashes; **outer** lash emphasis; tightline or outer-third liner only |
 | Setting spray | Hourglass Veil | |
 
 ## Changelog
 
+- **2026-06-02:** Eye steps aligned with [[../../wiki/me/hooded-eyes]] (hooded + deep set research).
 - **2026-05-26:** Split cleanse note; blush TBD + returns; matte lip rule; Nars Oslo as foundation; T-zone oil journal link.

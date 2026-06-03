@@ -40,10 +40,11 @@ beauty/
 ├── areas/                 # ongoing routines & standards
 │   ├── makeup/
 │   ├── skincare/
-│   └── hair/
+│   └── hair/              # _index, routines, experiments.md
 ├── resources/             # products, shops, references
 ├── wiki/
 │   ├── me/                # face blueprint (canonical you)
+│   ├── hair/              # evergreen hair methods & matching rules
 │   ├── learnings/         # one insight per file when possible
 │   └── questions.md       # open research queue
 ├── journal/               # dated sessions

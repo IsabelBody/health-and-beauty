@@ -7,6 +7,7 @@ Eventually I should get every single application part of my routine in depth des
 - [ ] Optimise for hair next. Best products, hair straightening, permanent straightening, blow drying techniques. 
 
 
+- [ ] Use **Linear** for task management for this beauty knowledge base (see [[linear-task-management]]).
 - [ ] See if I can add a google MCP to copy stuff directly over from Google Docs. Maybe obsidian would be better.. 
 
 - [ ] Use - https://incidecoder.com/ for all my beauty ingredients. It is the greatest site ever. Share with Alice, too. 

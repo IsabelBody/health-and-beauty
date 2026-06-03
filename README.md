@@ -13,7 +13,9 @@ Personal beauty second brain: face blueprint, products, routines, skin health, h
 | Folder | Contents |
 |--------|----------|
 | `wiki/me/` | Face blueprint, feature priority |
-| `areas/` | Ongoing routines (makeup, skincare, hair, style) |
+| `areas/` | Ongoing routines (makeup, skincare, **hair**, style) |
+| `areas/hair/` | Hub, wash/between-wash routines, experiment tracker — start at `areas/hair/_index.md` |
+| `wiki/hair/` | Hair reference (e.g. Abbey Yung method, product matching) |
 | `resources/` | Products, shops (migrate collection here) |
 | `projects/` | GP visit, shade hunts, etc. |
 | `journal/` | Dated application logs |

@@ -144,9 +144,7 @@ Eye Shape
 
 Almond, round, hooded, monolid, downturned, upturned, deep-set, protruding?
 
-**Confirmed (Jun 2026):** almond, hooded, deep-set — not upturned or downturned.
-
-You already identified deep-set + almond; hooded is now confirmed too.
+**Confirmed (Jun 2026):** almond, hooded, deep-set — not upturned or downturned. **Partial hood** (crease visible at times; lid covered when eyes open). Full makeup rules: [[wiki/me/hooded-eyes]].
 
 Eye Spacing
 
@@ -159,36 +157,19 @@ Should liner extend inward or outward?
 
 Lid Space
 
-How much visible lid space do I have?
-
-Do I need lifted shadow placement?
-
-Should shimmer go on lid or inner corner only?
-
+**Answered (research + your structure):** Little visible lid when eyes are open (hooded + deep set). Use **lifted / elevated** shadow placement below brow bone, not in natural crease. Shimmer: **mobile lid center** and/or **inner corner**; keep contour zone matte. See [[wiki/me/hooded-eyes]].
 
 Crease Structure
 
-Is the crease deep, soft, hidden, low?
-
-Should shadow sit above the natural crease?
-
+**Answered:** Crease is **deep** but **hidden/low when open** (hooded). Shadow for depth sits **above** natural crease — along brow-bone shadow zone — not in the fold.
 
 Lash Balance
 
-Do my eyes need emphasis on outer lashes, center lashes, or lower lashes?
-
-Should mascara focus on lift, length, or density?
-
+**Answered:** **Outer upper lashes** primary; curl essential (uncurled lashes read downturned). Minimal lower lash for daily. Mascara: **lift + length/separation**, not heavy lower focus.
 
 Eyeliner Mapping
 
-What eyeliner angle best suits my eyes?
-
-Thin liner or thick liner?
-
-Tightlining or visible liner?
-
-Should liner connect to lower lashline?
+**Answered:** **Thin** liner; **soft lifted wing** or outer-third line; **tightline** upper waterline OK for definition. Avoid thick/full lid line and downward shapes. Lower lashline: optional soft outer smoke only — not required daily. Detail: [[wiki/me/hooded-eyes]].
 
 
 

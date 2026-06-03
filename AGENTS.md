@@ -17,7 +17,7 @@ This repo is Isabel's personal beauty second brain: face blueprint, products, ro
 | `projects/` | Time-bound goals (GP visit, product shade hunt, Accutane phase) |
 | `areas/` | Ongoing standards: daily makeup, skincare, hair, style, lifestyle-for-skin |
 | `resources/` | Stable reference: retailers, ingredient lookups, shopping lists |
-| `wiki/` | Evergreen, linked knowledge: you, techniques, atomic learnings |
+| `wiki/` | Evergreen, linked knowledge: you, techniques, atomic learnings; `wiki/hair/` for hair methods |
 | `journal/` | Dated sessions: what you did, what happened, what to change |
 | `archive/` | Completed projects and superseded notes |
 | `templates/` | Copy when creating new notes |
@@ -62,6 +62,7 @@ When the user adds a dump or asks to process `inbox/`:
 - **Products** — check compatibility (water/silicone/oil); link INCIDecoder when verifying ingredients: https://incidecoder.com/
 - **Skin health** — separate `areas/skincare/` from makeup; hormonal/acne context stays in area + GP project notes.
 - **Journal** — after full-face or significant practice, encourage a short `journal/YYYY-MM-DD-*.md` entry.
+- **Hair** — routines in `areas/hair/`; experiments in `areas/hair/experiments.md` (one variable at a time); reference `wiki/hair/`; hair sessions use `templates/hair-experiment.md`.
 
 ## What not to do
 
