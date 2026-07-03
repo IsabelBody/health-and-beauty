@@ -1,6 +1,6 @@
-# Beauty knowledge base — agent instructions
+# Health & Beauty knowledge base — agent instructions
 
-This repo is Isabel's personal beauty second brain: face blueprint, products, routines, skin health, hair, and session learnings. Notes are plain Markdown with YAML frontmatter so humans and agents can read, link, and update them consistently.
+This repo is Isabel's personal health & beauty second brain: face blueprint, products, routines, skin health, hair, and session learnings. Notes are plain Markdown with YAML frontmatter so humans and agents can read, link, and update them consistently.
 
 ## Goals
 
