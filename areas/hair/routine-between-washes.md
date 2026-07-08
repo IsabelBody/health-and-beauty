@@ -2,7 +2,7 @@
 type: routine
 area: hair
 status: active
-updated: 2026-06-03
+updated: 2026-06-05
 ---
 
 # Between-wash hair routine
@@ -11,7 +11,7 @@ Step 11 in the [[../../wiki/hair/abbey-yung-method]] — overnight and refresh *
 
 ## Purpose
 
-Maintain **hydration** on lengths and protect style/sleep friction. Primary lever while wash-day routine is still being built ([[status-and-priorities]]).
+Maintain **hydration** on lengths and protect style/sleep friction. Pairs with **base wash-day routine** ([[routine-wash-day]]).
 
 ## Overnight (active — tested 2026-06-01)
 
@@ -28,7 +28,7 @@ Maintain **hydration** on lengths and protect style/sleep friction. Primary leve
 | Step | Product | When |
 |------|---------|------|
 | Dry shampoo | _TBD_ | Scalp oil between washes |
-| Light oil / serum on ends | _TBD_ | Day 2+ dryness — avoid if wash-day was heavy |
+| Light oil / serum on ends | **OGX Argan Weightless Mist** (optional) | Day 2+ dryness — sparingly; skip if wash-day felt heavy |
 
 ## Rules
 
@@ -43,5 +43,5 @@ Maintain **hydration** on lengths and protect style/sleep friction. Primary leve
 
 ## Changelog
 
+- **2026-06-05** — Linked OGX argan mist as optional refresh; wash-day base routine active.
 - **2026-06-03** — Documented current overnight stack from journal.
-- **2026-06-02** — First logged test (journal).

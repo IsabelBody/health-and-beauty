@@ -2,7 +2,7 @@
 type: area
 area: hair
 status: active
-updated: 2026-06-03
+updated: 2026-06-05
 ---
 
 # Hair — knowledge base hub
@@ -13,9 +13,11 @@ Ongoing hair health, routines, experiments, and reference. Start with priorities
 
 | Note | Purpose |
 |------|---------|
-| [[status-and-priorities]] | Current read, #1 issues, what helps |
-| [[experiments]] | Active tests, queue, one-change-at-a-time protocol |
-| [[routine-wash-day]] | In-shower steps (Abbey Yung–aligned; fill as you test) |
+| [[status-and-priorities]] | Current read, goals, next actions |
+| [[../../wiki/hair/my-profile]] | Confirmed scalp/structure/routine (interview Jun 2026) |
+| [[../../resources/products/hair-owned]] | Base wash-day products (Jun 2026) |
+| [[experiments]] | Future tweaks — one variable at a time |
+| [[routine-wash-day]] | **Base wash-day routine** (Abbey Yung–aligned; active Jun 2026) |
 | [[routine-between-washes]] | Overnight and refresh between washes |
 
 ## Reference (wiki)
@@ -24,6 +26,7 @@ Ongoing hair health, routines, experiments, and reference. Start with priorities
 |------|---------|
 | [[../../wiki/hair/_index]] | Evergreen hair knowledge index |
 | [[../../wiki/hair/abbey-yung-method]] | Full Abbey Yung framework (research + sources) |
+| [[../../wiki/hair/abbey-yung-products]] | Products Abbey has recommended by step |
 | [[../../wiki/hair/product-matching]] | Scalp type, strand thickness, picking products |
 | [[../../wiki/hair/step-rules-and-conflicts]] | What not to combine on the same wash day |
 
@@ -38,7 +41,7 @@ Ongoing hair health, routines, experiments, and reference. Start with priorities
 1. **New observation** — short `journal/` entry; if reusable, add or update a `wiki/learnings/` note.
 2. **New experiment** — add row in [[experiments]]; change **one** variable; link journal when you run it.
 3. **Routine change** — update wash or between-wash routine + `## Changelog` with date.
-4. **Product confirmed** — add `resources/products/` note when that folder is in use; link from routine for now.
+4. **Product confirmed** — [[../../resources/products/hair-owned]] (wash-day stack Jun 2026); link from routines.
 
 ## Related areas
 

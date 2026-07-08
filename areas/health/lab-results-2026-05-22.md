@@ -144,3 +144,4 @@ Transcribed from patient portal screenshots. Not medical interpretation — disc
 
 - [[../../projects/gp-hormonal-acne]]
 - [[../skincare/medications]]
+- [[gynae-consult-2026-06-30]]

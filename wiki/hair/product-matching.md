@@ -3,6 +3,7 @@ type: reference
 topic: hair
 status: active
 updated: 2026-06-03
+profile_confirmed: 2026-06-03
 ---
 
 # Hair product matching (Abbey Yung framework)
@@ -75,15 +76,25 @@ For **colour, bleach, heavy heat** damage — optional paths:
 
 Align with [[../../areas/hair/routine-between-washes]].
 
-## My profile (fill in as you learn)
+## My profile
 
-| Field | Current guess | Confirmed? |
-|-------|---------------|------------|
-| Scalp type | _TBD_ | |
-| Strand thickness | _TBD_ | |
-| Density | _TBD_ | |
-| Wash frequency | _TBD_ | |
-| Colour / heat damage | _TBD_ | |
+Canonical detail: [[my-profile]] · Recommendations: [[recommendations]]
+
+| Field | Value | Confirmed |
+|-------|--------|-----------|
+| Scalp type | **Balanced** (comfortable @ 24 h; clean after wash) | 2026-06-03 interview |
+| Strand thickness | **Fine** | 2026-06-03 |
+| Density | **Low** | 2026-06-03 |
+| Pattern | Straight | 2026-06-03 |
+| Length moisture | Always dry | 2026-06-03 |
+| Frizz | When dry | 2026-06-03 |
+| Wash frequency | Every 2–3 days (flexible) | 2026-06-03 |
+| Buildup | Often | 2026-06-03 |
+| Wet detangling | Very hard | 2026-06-03 |
+| Colour / heat damage | None now; daily blow-dry possible later | 2026-06-03 |
+| Bond repair | Defer | 2026-06-03 |
+| Goals | Hydration, frizz | 2026-06-03 |
+| Medications affecting hair | Isotretinoin 5 mg from 01/06/2026 | vault |
 
 ## Related
 

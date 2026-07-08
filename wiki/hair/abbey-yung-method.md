@@ -2,7 +2,7 @@
 type: reference
 topic: hair
 status: active
-updated: 2026-06-03
+updated: 2026-06-05
 confidence: confirmed
 source: research
 ---
@@ -11,7 +11,7 @@ source: research
 
 Reference for the viral **Abbey Yung method** — a flexible hair-care framework, not a fixed 11-product daily routine. Use [[product-matching]] to pick products and [[step-rules-and-conflicts]] before stacking steps.
 
-**Considering adoption:** see [[../../areas/hair/experiments]] for phased experiments tied to current priorities ([[../learnings/hair-hydration-primary-issue]]).
+**Active base routine:** [[../../areas/hair/routine-wash-day]] (Abbey Yung–aligned, from Jun 2026). Prior context: [[../learnings/hair-hydration-primary-issue]].
 
 ## What it is
 
@@ -112,6 +112,7 @@ Yung’s disclaimers: not a substitute for dermatology for persistent shedding, 
 
 ## Related
 
+- [[abbey-yung-products]] — full product menu by step
 - [[product-matching]]
 - [[step-rules-and-conflicts]]
 - [[../../areas/hair/experiments]]
@@ -120,4 +121,5 @@ Yung’s disclaimers: not a substitute for dermatology for persistent shedding, 
 
 ## Changelog
 
+- **2026-06-05** — Base wash-day routine adopted ([[../../areas/hair/routine-wash-day]]).
 - **2026-06-03** — Initial reference from research session (PEOPLE, YouTube transcript, Stylist, Rescripted, WWD, Newsweek).

@@ -1,13 +1,17 @@
 ---
 type: questions
 status: active
-updated: 2026-06-03
+updated: 2026-06-30
+profile_interview: 2026-06-03
 ---
 
 # Open questions
 
 ## Skin / health
 
+- [ ] **Gynae — dysmenorrhoea:** skip periods on Oralcon vs Mirena? (review ~Sep 2026 — [[../areas/health/gynae-consult-2026-06-30]])
+- [ ] **Pelvic floor physio** — follow up when Sean sends info (dyspareunia)
+- [ ] **Hymenal remnant** — leave as-is vs local removal if desired
 - [ ] **Isotretinoin 5 mg** — is this already a microdose, or should you discuss a lower dose with GP?
 - [ ] **Azelaic acid** (Azclear) — continue on spots while starting isotretinoin?
 - [ ] **Salicylic acid** — retry at lower dose/contact, or avoid on accutane?
@@ -28,13 +32,22 @@ updated: 2026-06-03
 
 ## Hair
 
-See also [[hair/product-matching]] (profile TBD) and [[../../areas/hair/experiments]].
+Profile: [[hair/my-profile]] · Plan: [[hair/recommendations]] · Experiments: [[../../areas/hair/experiments]]
 
-- [ ] **Scalp type** + **strand thickness** — confirm for Abbey Yung product matching
-- [ ] **Frizz / messy texture** after hydration improves — what closes the gap? (smoothing serum, anti-frizz, blow-dry technique, cut, silk vs bonnet, etc.)
-- [ ] Hairdryer and straightener models + techniques
-- [ ] Name and log gloss + hydrating spray used in overnight test (2026-06-01)
-- [ ] Which **deep-clean shampoo** to trial in experiment phase B (if any)
+- [x] **Wash-day product names** — logged 2026-06-05 ([[../resources/products/hair-owned]])
+- [ ] **Overnight gloss + hydrating spray** names (between-wash stack)
+- [ ] **Hair length** (for product amount / technique)
+- [ ] **Shedding** — duration, severity, clumps; GP / bloods if worsening
+- [ ] **Hard water** at home (yes / no / unknown)
+- [x] **Deep-clean shampoo** — OUAI Detox (purchased 2026-06-05); trial active in [[../../areas/hair/experiments]] H-002
+- [ ] **Frizz** after hydration stable — smoothing, blow-dry technique, brush, cut
+- [ ] **Heat** — hairdryer model; heat protectant when daily blow-dry starts
+- [x] **Pre-wash oil** — OGX Argan Weightless Mist owned; use on detangle days only ([[../resources/products/hair-owned]])
+
+## Answered / closed (hair)
+
+- ~~Scalp type + strand thickness?~~ — **Balanced scalp; fine strands; low density; straight** ([[hair/my-profile]])
+- ~~Primary hair goals?~~ — **Hydration + frizz** (Jun 2026 interview)
 
 ## Answered / closed
 

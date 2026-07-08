@@ -37,4 +37,6 @@ updated: 2026-06-02
 - [[../areas/hair/status-and-priorities]]
 - [[../areas/hair/routine-between-washes]]
 - [[../areas/hair/experiments]]
+- [[../wiki/hair/my-profile]]
+- [[../journal/2026-06-03-hair-profile-interview]]
 - [[../wiki/questions]]

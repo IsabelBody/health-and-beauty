@@ -1,68 +1,76 @@
 ---
 type: routine
 area: hair
-status: draft
-updated: 2026-06-03
+status: active
+updated: 2026-06-05
 ---
 
 # Wash-day hair routine
 
-Abbey Yung–aligned template. **Status: draft** — fill products and checkboxes as you experiment. Not every step runs every wash ([[../../wiki/hair/step-rules-and-conflicts]]).
+**Base routine (active from 2026-06-05).** Abbey Yung–aligned; personalised from [[../../wiki/hair/my-profile]]. Products: [[../../resources/products/hair-owned]].
 
-**Matching guide:** [[../../wiki/hair/product-matching]] · **Full method:** [[../../wiki/hair/abbey-yung-method]]
+**Profile:** Fine, low density, balanced scalp, dry lengths, buildup often, very hard detangling.
 
 ## My wash frequency
 
-_Target:_ _TBD_ · _Actual this week:_
+**Target:** Every 2–3 days (flexible).
+
+## Default wash types (pick one per day)
+
+| Type | Use when | Steps |
+|------|----------|--------|
+| **Weekly reset** | ~1×/week (every 2 weeks if scalp feels tight) | 3 → 6 (mask) → 8 |
+| **Standard** | Most wash days | 4 → 6 (conditioner) → 8 |
+| **Detangle support** | Wet combing still very hard | 2 (20+ min) → 4 → 6 → 8 |
+
+**Skip for now:** 1, 5, 7 (bond repair), 4b (medicated), 9–10 unless needed.
 
 ## Pre-wash (optional)
 
-| Step | Product | When | On? |
-|------|---------|------|-----|
-| 1 Pre-shampoo bond repair | _TBD_ | 1–2×/week; ≥10 min dry | ☐ |
-| 2 Pre-shampoo oil | _TBD_ | Dry lengths; ≥20 min; skip if in-shower bond today | ☐ |
+| Step | Product | When | Active? |
+|------|---------|------|---------|
+| 1 Pre-shampoo bond repair | — | Defer | No |
+| 2 Pre-shampoo oil (light) | **OGX Argan Oil Weightless Healing Dry Oil Mist** | Dry lengths; ≥20 min; detangle days only; **not** same wash as post-shower OGX | Yes |
 
 ## In shower
 
-| Step | Product | Notes | On? |
-|------|---------|-------|-----|
-| 3 Clarifying / deep-clean | _TBD_ | ~weekly; adjust for oily scalp | ☐ |
-| 4 Regular shampoo | _TBD_ | Matched to scalp type | ☐ |
-| 4b Medicated | _TBD_ | Only if needed | ☐ |
-| 5 Post-shampoo bond repair | _TBD_ | Bond wash only; not with K18 stack | ☐ |
-| 6 Conditioner / mask / gloss | _TBD_ | **Every wash**; 3–10 min | ☐ |
+| Step | Product | Notes | Active? |
+|------|---------|-------|---------|
+| 3 Clarifying / deep-clean | **OUAI Detox Shampoo** | **~1×/week** — buildup often; scalp focus; always follow with mask or conditioner | Yes |
+| 4 Regular shampoo | **L'Oréal Elvive Glycolic Gloss** Shampoo | Balanced scalp; standard + detangle wash days | Yes |
+| 4b Medicated | — | Only if flakes/itch develop | No |
+| 5 Post-shampoo bond repair | — | Defer until colour/heat | No |
+| 6 Conditioner / mask | **Glycolic Gloss Conditioner** (standard) · **Dove Intensive Repair Mask** (reset) | **Every wash** — one product per wash; 3–5 min (up to 10 if detangling); mids to ends | Yes |
 
 ## Post-wash
 
-| Step | Product | Notes | On? |
-|------|---------|-------|-----|
-| 7 Post-wash bond repair | _TBD_ | ~10 min before leave-in | ☐ |
-| 8 Leave-in + heat protectant | _TBD_ | If heat styling | ☐ |
-| 9 Styling | _TBD_ | | ☐ |
-| 10 Style sealer | _TBD_ | | ☐ |
+| Step | Product | Notes | Active? |
+|------|---------|-------|---------|
+| 7 Post-wash bond repair | — | Defer | No |
+| 8 Leave-in | **Pureology Color Fanatic** Leave-In Spray | Light — 2–4 sprays, mids to ends; heat protect to 450°F when blow-drying | Yes |
+| 9 Styling | — | As needed | Optional |
+| 10 Style sealer | **OGX Argan Oil Mist** | Frizz / shine on dry hair only — **not** same wash as step 2 | Optional |
 
 ## Technique notes
 
-- Shampoo: scalp focus; _double shampoo? Y/N_
-- Conditioner: mids to ends
-- Detangle: _wet brush / fingers / wide tooth — TBD_
-- Heat: _TBD_ — downward blow-dry from inbox backlog
-
-## Example wash types (pick one per day)
-
-| Type | Steps to include |
-|------|------------------|
-| **Minimal** | 4 + 6 + 8 |
-| **Hydration** | 2 + 4 + 6 + 8 (+ between-wash per [[routine-between-washes]]) |
-| **Deep clean** | 3 + 4 + 6 + 8 |
-| **Bond** | 3 + 4 + 5 + 6 + 8 (no pre-oil) |
+- Shampoo: focus on scalp; thorough rinse  
+- Conditioner / mask: mids to ends; detangle gently in shower with slip  
+- **Fine + low density:** small amounts; avoid coating  
+- **Reset vs standard:** Dove mask **instead of** Glycolic conditioner — not both same wash  
+- **Isotretinoin:** if lengths get drier, ease OUAI to every 2 weeks before dropping conditioner  
+- Heat (future): downward blow-dry; Color Fanatic has heat protection — add dedicated spray if daily blow-dry starts
 
 ## Links
 
 - [[_index]]
 - [[experiments]]
+- [[routine-between-washes]]
+- [[../../wiki/hair/my-profile]]
+- [[../../resources/products/hair-owned]]
 - [[../../wiki/learnings/hair-hydration-primary-issue]]
 
 ## Changelog
 
-- **2026-06-03** — Skeleton created for Abbey Yung experiment track.
+- **2026-06-05** — **Adopted as base wash-day routine** (replaces prior undefined wash-day stack).
+- **2026-06-05** — Products purchased and assigned to reset / standard / detangle patterns.
+- **2026-06-03** — Patterns defined from interview (reset + standard + detangle).

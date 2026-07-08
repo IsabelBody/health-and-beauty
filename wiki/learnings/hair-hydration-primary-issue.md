@@ -2,7 +2,7 @@
 type: learning
 topic: hair
 confidence: hypothesis
-updated: 2026-06-02
+updated: 2026-06-03
 ---
 
 # Hydration is likely the #1 hair issue
@@ -19,11 +19,18 @@ Hair reads **dry** and under-hydrated more than anything else right now. Fixing 
 - Treat **hydration** as the first lever (overnight seal: gloss or similar + hydrating spray + bonnet).
 - Keep researching what reduces **frizz / flyaways** after moisture is improved (technique, product weight, smoothing, cut, etc.).
 
+## Context (profile Jun 2026)
+
+Fine, low-density, straight; lengths **always dry**; frizz **when dry**; scalp balanced. See [[../hair/my-profile]].
+
 ## Related
 
 - [[../../areas/hair/status-and-priorities]]
 - [[../../areas/hair/routine-between-washes]]
 - [[../../areas/hair/experiments]]
-- [[../../wiki/hair/abbey-yung-method]]
+- [[../hair/my-profile]]
+- [[../hair/recommendations]]
+- [[../hair/abbey-yung-method]]
 - [[../../journal/2026-06-02-hair-overnight-hydration]]
+- [[../../journal/2026-06-03-hair-profile-interview]]
 - [[../questions]]

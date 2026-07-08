@@ -1,18 +1,28 @@
 ---
 type: wiki
 status: active
-updated: 2026-06-03
+updated: 2026-06-05
 ---
 
 # Hair wiki
 
 Evergreen reference for hair structure, methods, and product-matching logic — not dated experiments (those live in `areas/hair/experiments.md` and `journal/`).
 
+## You (confirmed Jun 2026)
+
+| Note | Summary |
+|------|---------|
+| [[my-profile]] | Interview: fine, low density, balanced scalp, dry lengths, buildup, goals |
+| [[../../resources/products/hair-owned]] | Base wash-day products (Jun 2026) |
+| [[recommendations]] | Implemented wash-day plan → [[../../areas/hair/routine-wash-day]] |
+
 ## Methods and frameworks
 
 | Note | Summary |
 |------|---------|
 | [[abbey-yung-method]] | Modular 11-step framework; minimum 3–4 products; sources |
+| [[abbey-yung-products]] | Products she has named by step (videos + guides) |
+| [[nz-shopping-abbey-list]] | Auckland NZ buy links (CW → Farmers → Mecca → Sephora) |
 | [[product-matching]] | Scalp type, strand thickness, density — how to choose shampoos vs conditioners |
 | [[step-rules-and-conflicts]] | Bond repair vs oil, K18 cadence, clarifying frequency |
 
@@ -24,9 +34,11 @@ Link atomic insights here as they accumulate:
 
 ## Area routines (operational)
 
-- Hub: [[../../areas/hair/_index]]
-- Wash day: [[../../areas/hair/routine-wash-day]]
-- Between washes: [[../../areas/hair/routine-between-washes]]
+| Note | Role |
+|------|------|
+| [[../../areas/hair/_index]] | Hair area hub |
+| [[../../areas/hair/routine-wash-day]] | **Base wash-day routine** (active Jun 2026) |
+| [[../../areas/hair/routine-between-washes]] | Overnight + between-wash refresh |
 
 ## External sources (canonical Abbey Yung)
 

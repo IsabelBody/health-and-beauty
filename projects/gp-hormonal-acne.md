@@ -1,7 +1,7 @@
 ---
 type: project
 status: active
-updated: 2026-05-26
+updated: 2026-06-30
 ---
 
 # GP / derm — acne, PIE, treatment path
@@ -11,7 +11,8 @@ updated: 2026-05-26
 | Topic | Status |
 |-------|--------|
 | Spironolactone | **Not** at this stage |
-| Birth control | **Oralcon 30 ED** — **great benefits so far** |
+| Birth control | **Oralcon 30 ED** — acne and period cramps improved; gynae review ~Sep 2026 |
+| Gynaecology (30 Jun 2026) | Suspected **superficial endometriosis** (TVUS); dyspareunia — pelvic floor physio info pending; see [[../areas/health/gynae-consult-2026-06-30]] |
 | Isotretinoin | Prescribed **5 mg/day**; bloods done; **pick up this weekend** |
 | Acne severity (your view) | Not bad overall; **PIE**, redness, congestion, regular pimples are the main bother |
 
@@ -44,6 +45,8 @@ See [[../areas/skincare/skin-status]] — PIE, under-skin congestion, redness; a
 - [x] hCG negative
 - [ ] Pick up isotretinoin (weekend)
 - [ ] Follow-up with Sean — iron, alk phos, accutane + skincare plan
+- [ ] **Gynae follow-up ~Sep 2026** — symptoms, skip periods vs Mirena ([[../areas/health/gynae-consult-2026-06-30]])
+- [ ] Pelvic floor physio info — when received from Sean
 - [ ] Confirm spironolactone deferred (documented)
 
 ## Related
@@ -51,7 +54,9 @@ See [[../areas/skincare/skin-status]] — PIE, under-skin congestion, redness; a
 - [[../areas/skincare/medications]]
 - [[../areas/skincare/routine-daily]]
 - [[../areas/skincare/skin-status]]
+- [[../areas/health/gynae-consult-2026-06-30]]
 
 ## Changelog
 
+- **2026-06-30:** Gynae consult logged — suspected superficial endometriosis; dyspareunia plan; 3-month review.
 - **2026-05-26:** Spironolactone not proceeding; OCP benefits noted; isotretinoin 5 mg pick-up pending; PIE/congestion emphasis.

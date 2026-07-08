@@ -1,7 +1,7 @@
 ---
 type: reference
 status: active
-updated: 2026-05-28
+updated: 2026-06-30
 source: patient portal + your update
 ---
 
@@ -14,7 +14,7 @@ Confirm dose and timing with your prescriber. Not medical advice.
 | Medication | Strength / form | Instructions | Started | Status |
 |------------|-----------------|--------------|---------|--------|
 | Isotretinoin | 5 mg capsule | 5 mg PO daily | **01/06/2026** | Starting |
-| Oralcon 30 ED (birth control) | Levonorgestrel 150 µg + ethinylestradiol 30 µg | 1 tablet daily, same time | **01/02/2026** | Active — great benefits so far |
+| Oralcon 30 ED (birth control) | Levonorgestrel 150 µg + ethinylestradiol 30 µg | 1 tablet daily, same time | **01/02/2026** | Active — acne improved; period cramps improved; gynae follow-up Sep 2026 |
 
 **Not at this stage:** spironolactone.
 
@@ -38,7 +38,7 @@ Confirm dose and timing with your prescriber. Not medical advice.
 ## Notes for skincare / makeup
 
 - **Isotretinoin (from 01/06/2026):** dryness, lip dryness, sun sensitivity; simplify actives until GP confirms. Journal baseline oil (T-zone) before / as you start.
-- **Oralcon:** hormonal acne support; strong positive response since **01/02/2026**.
+- **Oralcon:** hormonal acne support; strong positive response since **01/02/2026**. Also for contraception; dysmenorrhoea improved on OCP — see [[../health/gynae-consult-2026-06-30]] for gynae plan (skip periods vs Mirena at review).
 - **5 mg dose:** unsure if this is already microdosing — add to GP questions ([[../../wiki/questions]]).
 
 ## Related
@@ -47,3 +47,4 @@ Confirm dose and timing with your prescriber. Not medical advice.
 - [[skin-status]]
 - [[../../projects/gp-hormonal-acne]]
 - [[../health/lab-results-2026-05-22]] — ferritin low; iron supplementation context
+- [[../health/gynae-consult-2026-06-30]] — suspected superficial endometriosis; dyspareunia; hymenal remnant

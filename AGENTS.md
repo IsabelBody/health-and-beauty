@@ -62,7 +62,7 @@ When the user adds a dump or asks to process `inbox/`:
 - **Products** — check compatibility (water/silicone/oil); link INCIDecoder when verifying ingredients: https://incidecoder.com/
 - **Skin health** — separate `areas/skincare/` from makeup; hormonal/acne context stays in area + GP project notes.
 - **Journal** — after full-face or significant practice, encourage a short `journal/YYYY-MM-DD-*.md` entry.
-- **Hair** — routines in `areas/hair/`; experiments in `areas/hair/experiments.md` (one variable at a time); reference `wiki/hair/`; hair sessions use `templates/hair-experiment.md`.
+- **Hair** — canonical profile `wiki/hair/my-profile.md`; routines in `areas/hair/`; experiments in `areas/hair/experiments.md` (one variable at a time); reference `wiki/hair/`; hair sessions use `templates/hair-experiment.md`.
 
 ## What not to do
 

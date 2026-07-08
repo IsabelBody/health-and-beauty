@@ -8,6 +8,6 @@ Evergreen knowledge — not tied to a single week.
 - Daily uniform (miniskirt + tank/corset, low waist): `areas/style/daily-uniform-miniskirt-dc.md`
 - [[questions]] — what you're still researching
 - Learnings — `wiki/learnings/` (atomic insights); style: [[learnings/miniskirt-fabrics-dc-deep-winter]], [[learnings/tops-low-mini-dc]], [[learnings/push-up-bra-daily-dc-silhouette]]
-- **Hair** — `wiki/hair/` (methods, matching); ops: `areas/hair/` ([[hair/_index]], [[../../areas/hair/status-and-priorities]])
+- **Hair** — [[hair/my-profile]], [[hair/recommendations]]; methods in `wiki/hair/`; ops: `areas/hair/` ([[../../areas/hair/_index]])
 
 Start here when adapting a tutorial to your face.
