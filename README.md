@@ -1,6 +1,6 @@
-# beauty
+# health-and-beauty
 
-Personal beauty second brain: face blueprint, products, routines, skin health, hair, and session journals — in Markdown for you and for agents.
+Personal health & beauty second brain: face blueprint, products, routines, skin health, hair, and session journals — in Markdown for you and for agents.
 
 ## Start here
 
